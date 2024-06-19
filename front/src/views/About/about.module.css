@@ -1,0 +1,16 @@
+.div{
+    display: flex;
+}
+
+.img{
+    margin: 2em;
+    width: 40%;
+    border-radius: 2em;
+}
+.info{
+    margin: 2em;
+    text-align: left;
+}
+.info3{
+    padding: 1em 0 0 0;
+}

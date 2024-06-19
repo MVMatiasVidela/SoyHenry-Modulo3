@@ -1,0 +1,41 @@
+/*.app {
+    background: #60C7FF;
+    border-radius: 1em;
+    width: 60%;
+    margin: 2em auto;
+    padding: 1em;
+}*/
+
+/* En un archivo como appointments.module.css */
+
+.appointmentsContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.appointmentCard {
+  border: 1px solid #001139;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: #74ccfb;
+  margin: 1em;
+}
+.appointmentCard:hover{
+    cursor: pointer;
+}
+
+
+
+.appointmentDetails {
+  margin-bottom: 8px;
+}
+
+.appointmentStatus {
+  font-weight: bold;
+}
+
+.noAppointments {
+  font-style: italic;
+  color: #888;
+}

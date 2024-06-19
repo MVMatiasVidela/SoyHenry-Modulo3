@@ -1,0 +1,23 @@
+
+.vista{
+    background: gray;
+    width: 70%;
+    border-radius: 1em;
+    padding: 1em;
+    margin: auto;
+    text-align: center;
+    display: flex;
+}
+.Info{
+    display: flex;
+    background: #72a9e0;
+    padding: 0.5em;
+}
+.p{
+    color: red;
+    background: black;
+    width: 25%;
+    margin: 0em auto;
+    border-radius: 1em;
+    padding: 0.5em;
+}

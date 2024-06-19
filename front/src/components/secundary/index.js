@@ -1,0 +1,11 @@
+export { default as Appointment } from "./Appointment/appointment";
+export { default as Button } from "./Button/button";
+export { default as ButtonIcon } from "./ButtonIcon/buttonIcon";
+export { default as ButtonNav } from "./ButtonNav/buttonNav";
+export { default as FormInput } from "./FormInput/formInput";
+export { default as ImgPrincipal } from "./ImgPrincipal/imgPrincipal";
+export { default as Input } from "./Input/input";
+export { default as ProfileButton } from "./ProfileButton/profileButton";
+export { default as Searchbar } from "./Searchbar/searchbar";
+export { default as Logo } from "./Logo/logo";
+export { default as Modal} from "./Modal/modal";

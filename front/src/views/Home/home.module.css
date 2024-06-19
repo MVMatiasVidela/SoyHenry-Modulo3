@@ -1,0 +1,49 @@
+
+.imgPortada {
+    width: 100%;
+}
+
+.text {
+  position: absolute;
+  top: 28%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+  color: #001139;
+  font-size: 5rem;
+  font-family:"Oleo Script", system-ui;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.236);
+  padding:0.2em;
+  
+  border-radius: 0.5em;
+  margin-top: 0.5em;
+}
+
+.img1{
+  width: 400px;
+  border-radius: 2em;
+  padding: 1em;
+}
+.img2{
+  
+  border-radius: 1em;
+}
+
+.info1{
+  display: flex;
+  
+  margin: 2em;
+  justify-content: start;
+  align-items: center;
+  text-align: start;
+}
+.info2{
+  display: flex;
+  margin: 2em;
+  justify-content: start;
+  align-items: center;
+  text-align: start;
+}
+p{
+  font-size: large;
+}

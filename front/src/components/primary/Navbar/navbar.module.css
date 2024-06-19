@@ -1,0 +1,43 @@
+.h1{
+    font-family: "Oleo Script", system-ui;
+    color: #72a9e0;
+}
+.p{
+    color: white;
+    text-decoration: underline;
+}
+.contNav{
+    display: flex;
+    color: #72a9e0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    background: #001139;
+}
+
+.nav{
+    margin: 1em;
+    transition: transform 0.2s ease;
+    font-size: 1.5em;
+}
+
+
+.nav:hover {
+transform: scale(1.3);
+}
+.Emp{
+    display: flex;
+    margin: 0.5em 0 0 5em;
+}
+
+.img{
+    color: #72a9e0;
+}
+
+.link{
+    color:  #72a9e0;
+}

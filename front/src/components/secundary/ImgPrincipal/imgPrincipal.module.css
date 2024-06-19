@@ -1,0 +1,31 @@
+.img {
+  width: 100%;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: space-around;
+}
+.marca{
+    margin: 2em 0 1em 4em;
+    font-size: 1.5em;
+    padding: 1.5em;
+    background: #72a9e0;
+    border-radius: 1em;
+}
+
+
+.contImg {
+  text-align: end;
+  width: 50%;
+  margin: 0 0 0 10em;
+  
+}
+
+.h1{
+    font-family: "Oleo Script", system-ui;
+    color: #001139;
+}
+.p{
+    text-decoration: underline;
+}
